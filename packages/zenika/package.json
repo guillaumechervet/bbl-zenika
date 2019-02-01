@@ -11,7 +11,7 @@
   },
   "private": false,
   "publishConfig": {
-    "access": true
+    "access": "public"
   },
   "directories": {
     "lib": "lib",
@@ -26,5 +26,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "1aea0b886a5bd3b211b70cd9dde10dff15713913"
 }

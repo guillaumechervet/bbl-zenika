@@ -8,7 +8,7 @@
   "main": "lib/zenikashared.js",
   "private": false,
   "publishConfig": {
-    "access": true
+    "access": "public"
   },
   "directories": {
     "lib": "lib",
@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "ramda": "^0.26.1"
-  }
+  },
+  "gitHead": "1aea0b886a5bd3b211b70cd9dde10dff15713913"
 }

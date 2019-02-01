@@ -1,0 +1,30 @@
+{
+  "name": "@guillaume.chervet/zenika",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Guillaume Chervet <guillaume.chervet@axa.fr>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/zenika.js",
+  "dependencies": {
+    "@guillaume.chervet/zenikashared": "0.0.0"
+  },
+  "private": true,
+  "publishConfig": {
+    "access": true
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "youhou"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

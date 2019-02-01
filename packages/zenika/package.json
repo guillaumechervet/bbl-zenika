@@ -1,13 +1,13 @@
 {
   "name": "@guillaume.chervet/zenika",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Guillaume Chervet <guillaume.chervet@axa.fr>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/zenika.js",
   "dependencies": {
-    "@guillaume.chervet/zenikashared": "0.0.0"
+    "@guillaume.chervet/zenikashared": "^0.1.0"
   },
   "private": true,
   "publishConfig": {

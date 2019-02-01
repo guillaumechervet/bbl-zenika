@@ -5,5 +5,5 @@ const shared = require("@guillaume.chervet/zenikashared");
 module.exports = zenika;
 
 function zenika(a, b) {
-  return shared(a, b + 1);
+  return shared(a, b + 2);
 }

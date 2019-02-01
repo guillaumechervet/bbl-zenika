@@ -9,7 +9,7 @@
   "dependencies": {
     "@guillaume.chervet/zenikashared": "^0.1.0"
   },
-  "private": true,
+  "private": false,
   "publishConfig": {
     "access": true
   },

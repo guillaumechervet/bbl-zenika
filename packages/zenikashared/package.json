@@ -6,7 +6,7 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/zenikashared.js",
-  "private": true,
+  "private": false,
   "publishConfig": {
     "access": true
   },
